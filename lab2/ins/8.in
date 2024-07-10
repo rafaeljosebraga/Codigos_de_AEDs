@@ -1,0 +1,30 @@
+insere_fim 10 100
+insere_fim 30 300
+insere_fim 20 200
+insere_fim 50 500
+insere_inicio 100 111
+insere_inicio 200 222
+insere_fim 50 500
+insere_inicio 300 333
+insere_inicio 50 500
+insere_inicio 400 444
+insere_fim 500 555
+insere_fim 50 500
+insere_fim 100 111
+insere_inicio 700 777
+coeficiente_do_grau 50
+imprime
+remove_ocorrencias 50 500
+imprime
+insere_inicio 200 222
+imprime
+coeficiente_do_grau 200
+remove_ocorrencias 100 111
+imprime
+remove_ocorrencias 200 222
+imprime
+coeficiente_do_grau 200
+coeficiente_do_grau 30
+coeficiente_do_grau 100
+
+

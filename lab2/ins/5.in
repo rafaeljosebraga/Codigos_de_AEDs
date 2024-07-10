@@ -1,0 +1,13 @@
+insere_fim 10 100
+insere_fim 30 300
+insere_fim 20 200
+insere_fim 50 500
+imprime
+remove_inicio
+imprime
+remove_inicio
+imprime
+remove_inicio
+imprime
+remove_inicio
+imprime

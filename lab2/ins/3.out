@@ -1,0 +1,13 @@
+Inserido (10,100) no inicio.
+Inserido (30,300) no inicio.
+Inserido (20,200) no inicio.
+Inserido (50,500) no inicio.
+[(50,500),(20,200),(30,300),(10,100)]
+Removido (10,100) do fim.
+[(50,500),(20,200),(30,300)]
+Removido (30,300) do fim.
+[(50,500),(20,200)]
+Removido (20,200) do fim.
+[(50,500)]
+Removido (50,500) do fim.
+[]
